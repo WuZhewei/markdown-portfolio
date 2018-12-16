@@ -5,5 +5,5 @@
 - LOEWE
 - Valentino
 - Van Cleef & Arpels
-Swaine Adeney Brigg
+- Swaine Adeney Brigg
 - Mikimoto
